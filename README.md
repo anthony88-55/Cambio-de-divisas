@@ -6,4 +6,4 @@ Programa que hace el cambio de dinero de dolar a euros utilizando diferentes met
 ## Instalción
 Clona el repositorio
     ```bash
-    git clone https://github.com/anthony88-55/Cambio-de-divisas.git
+   git clone https://github.com/anthony88-55/Cambio-de-divisas.git
